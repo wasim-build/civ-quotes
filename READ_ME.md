@@ -1,6 +1,6 @@
 # Civilization Quotes Page
 
-https://wasim-build.github.io/civ-quotes-page/
+https://wasim-build.github.io/civ-quotes/
 
 A web page for both viewing and searching for quotes from Sid Meier's Civilization 4, 5 and 6.
 
